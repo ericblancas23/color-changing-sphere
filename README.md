@@ -16,3 +16,4 @@ This project was made utilizing A-framework built in with three.js and also webg
 Introductions of this project will be produced via youtube and explain some of the core concepts of utilizing 
 geometrical syntax and environment as well. Enjoy!
 
+<center><img src="img/aframe-interactivity.gif"/></center>
